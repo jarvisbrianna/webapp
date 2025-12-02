@@ -1,0 +1,17 @@
+theme: "hugo-lithium"
+baseURL: https://bjpoetryandprints.com/
+languageCode: en-us
+title: 'Brianna Jarvis Poetry and Prints'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+
+
+
+
+
+
