@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://bjpoetryandprints.netlify.app/"
 languageCode = "en-US"
 title = "Brianna Jarvis Poetry and Prints"
 theme = "hugo-lithium"
