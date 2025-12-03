@@ -1,8 +1,8 @@
 [build]
-  command = "npm install -D tailwindcss && hugo"
+  command = "npm install -D tailwindcss postcss postcss-cli autoprefixer && hugo"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.152.2"   # or whatever blogdown::hugo_version() returns
+  HUGO_VERSION = "0.152.2"
   NODE_VERSION = "18"
 
