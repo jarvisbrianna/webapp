@@ -1,9 +1,9 @@
 ---
-title: 'Farmers For Palestine Print'
+title: 'Free Palestine Watermelon Print'
 date: '2025-10-16'
 output: html_document
 ---
 
-![Farmers For Palestine](/images/ffp.JPG/)
+![Free Watermelon](/images/freewatermelon.JPG/)
 
 - Made for the Farmers For Palestine Market in Ypsilanti this October. 

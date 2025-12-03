@@ -39,4 +39,18 @@ check_site() # again
 
 rstudioapi::navigateToFile("netlify.toml") 
 
-new_post("How This Website Was Made")
+new_post("How This Website Was Made") # including code for making of the website in the website
+
+new_content(path = "printportfolio/crab.md", kind = "post", open = TRUE) # uneven and intricate print
+
+new_content(path = "printportfolio/ffp.md", kind = "post", open = TRUE) # farmers for palestine print
+
+new_content(path = "poetryportfolio/tobenurtured.md", kind = "post", open = TRUE) # to be nurtured poem
+
+new_content(path = "printportfolio/freewatermelon.md", kind = "post", open = TRUE) # free palestine watermelon print
+
+new_content(path = "printportfolio/everybodytransgender.md", kind = "post", open = TRUE) # everybody transgender clownfish print
+
+new_content(path = "poetryportfolio/untitled1.md", kind = "post", open = TRUE) # untitled (hurricane) poem
+
+
