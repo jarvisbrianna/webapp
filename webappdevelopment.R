@@ -39,6 +39,4 @@ check_site() # again
 
 rstudioapi::navigateToFile("netlify.toml") 
 
-# after this, given everything went correctly (which it might not have but I guess I'll never
-# know) I would be able to have a real website using this code (but I am broke and do not want
-# to pay for a domain) 
+new_post("How This Website Was Made")
