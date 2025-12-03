@@ -53,4 +53,14 @@ new_content(path = "printportfolio/everybodytransgender.md", kind = "post", open
 
 new_content(path = "poetryportfolio/untitled1.md", kind = "post", open = TRUE) # untitled (hurricane) poem
 
+new_content(path = "poetryportfolio/untitled2.md", kind = "post", open = TRUE) # untitled (biology 282) poem
+
+new_content(path = "poetryportfolio/thetown.md", kind = "post", open = TRUE) # the town, the sound, the ground poem
+
+new_content(path = "poetryportfolio/untitled3.md", kind = "post", open = TRUE) # untitled (svalbard) poem
+
+new_post("Tuesday, May 6th, 2025") # bj's blog iteration 1
+
+
+
 
