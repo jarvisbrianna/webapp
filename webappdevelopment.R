@@ -61,6 +61,6 @@ new_content(path = "poetryportfolio/untitled3.md", kind = "post", open = TRUE) #
 
 new_post("Tuesday, May 6th, 2025") # bj's blog iteration 1
 
-
+new_post("Final Code After All Content Uploads - Most Updated Version of Website") # display ALL coding done to make this website
 
 
