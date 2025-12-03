@@ -1,6 +1,8 @@
 [build]
-  command = "hugo"
+  command = "npm install -D tailwindcss && hugo"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.152.2"  # or whatever blogdown says
+  HUGO_VERSION = "0.152.2"   # or whatever blogdown::hugo_version() returns
+  NODE_VERSION = "18"
+
