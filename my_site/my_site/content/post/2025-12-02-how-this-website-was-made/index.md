@@ -31,7 +31,7 @@ So, this was *way* more complicated than I had expected I was getting myself int
 
 - The code for 'Poetry Portfolio':
 
-![Poetry](/poetryindex.png/)
+![Poetry](/images/poetryindex.png/)
 
 ![Poetry content](/images/poetrycontent.png/)
 
